@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riya Dahiya
-- 👀 I’m interested in Turning ideas into reality through web development with HTML and CSS, and exploring the power of Python, C++, and SQL for building robust applications.
+- 👀 I’m interested in turning ideas into reality through web development with HTML and CSS, and exploring the power of Python, C++, and SQL for building robust applications.
 - 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on projects related to web development.
-- 🎯 On a mission to create meaningful solutions and make a positive impact using technology.
+- 🎯 I am on a mission to create meaningful solutions and make a positive impact using technology.
 - 📫 Feel free to reach out to me on LinkedIn.
