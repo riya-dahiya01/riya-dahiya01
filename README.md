@@ -1,9 +1,9 @@
 [![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://riya-dahiya01.io)
 <h1 align="center">Hi 👋, I'm Riya Dahiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="coding" width="250" height ="225" src="C:\Users\dahiy\Downloads\Beige Simple Elegant Personal LinkedIn Banner (2).png">
+<img align ="right" alt="coding" width="250" height ="225" src="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-dahiya01&label=Profile%20views&color=0e75b6&style=flat" alt="riya-dahiya01" /> </p>
+<p align="left"> <img src="https://www.canva.com/design/DAFuOOCDWUc/RlTmci7DH6PdGXKpdDFU5w/edit" alt="riya-dahiya01" /> </p>
 
 - 🔭 I’m currently working on **Netflix clone**
 
