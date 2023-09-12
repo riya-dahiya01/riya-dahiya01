@@ -1,7 +1,7 @@
 [![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://riya-dahiya01.io)
 <h1 align="center">Hi 👋, I'm Riya Dahiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="coding" width="250" height ="225" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align ="right" alt="coding" width="250" height ="225" src="C:\Users\dahiy\Downloads\Beige Simple Elegant Personal LinkedIn Banner (2).png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-dahiya01&label=Profile%20views&color=0e75b6&style=flat" alt="riya-dahiya01" /> </p>
 
