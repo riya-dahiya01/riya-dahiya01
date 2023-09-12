@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/riya-dahiya01/riya-dahiya01/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner%20(2).png)](https://riya-dahiya01.io)
 
 <h1 align="center">Hi 👋, I'm Riya Dahiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
