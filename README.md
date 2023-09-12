@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/riya-dahiya01/riya-dahiya01/blob/main/Dark%20Banner.png)](https://riya-dahiya01.io)
 
 
-<h5 align="center">A passionate Software developer from India</h5>
+<h5 align="center">I am a passionate Software developer from India</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-dahiya01&label=Profile%20views&color=0e75b6&style=flat" alt="riya-dahiya01" /> </p>
 
