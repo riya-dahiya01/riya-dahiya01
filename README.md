@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://riya-dahiya01.io)
+
 <h1 align="center">Hi 👋, I'm Riya Dahiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
